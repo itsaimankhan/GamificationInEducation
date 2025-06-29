@@ -56,9 +56,9 @@ We conducted a survey to gather responses from students across diverse academic 
     ```
 2. **Install Dependicies**
   ```bash
-  pip install -r requirements.txt
-```
+    pip install -r requirements.txt
+   ```
 3. **Launch the Notebook**
    ```bash
    jupyter notebook
-```
+   ```
